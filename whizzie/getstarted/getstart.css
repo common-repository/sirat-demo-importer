@@ -1,0 +1,212 @@
+/*About theme*/
+#wpwrap{
+    font-family: 'Muli', sans-serif;
+}
+b{
+    font-weight: 700;
+}
+.wrapper-info {
+    margin-top: 20px;
+}
+.col-left{
+	width: 65%;
+}
+.wrapper-info .wizard-main-title{
+    color: #004c75;
+    font-size: 24px;
+    margin: 15px 0;
+    font-weight: bold;
+    text-align: center;
+}
+span.version {
+    font-size: 15px;
+    color: #333;
+}
+.dashboard-install-title{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    color: #004c75;
+}
+.logo {
+    margin: 5px 0;
+}
+.col-left p {
+    font-size: 15px;
+    color: #333;
+}
+img{
+    margin-bottom: 2px;
+    max-width: 100%;
+}
+li{
+    margin-top: 15px;
+    margin-top: 15px;
+    list-style: none;
+}
+.strong{
+    font-weight: bold;
+}
+#wpwrap {
+    height: auto;
+    min-height: 100%;
+    width: 100%;
+    position: relative;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+figure{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+ol{
+    display: block;
+    margin-right: 10px;
+}
+/*Tab Button*/
+.tab button {
+    border: solid 1px #bbb;
+    padding: 15px;
+    background: linear-gradient(#6ccef5,#016194);
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 10px;
+    cursor: pointer;
+    color: #fff;
+}
+.tab-sec h3 {
+    color: #004c75;
+    font-size: 19px;
+    margin:0 10px 0 0;
+    line-height: 30px;
+}
+.tab-sec p {
+    font-size: 16px;
+    color: #333;
+}
+.col-right-inner {
+    width: 50% !important;
+    float: right;
+    padding: 0 20px;
+}
+.col-left-inner {
+    width: 42% !important;
+    float: left;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 12px #e1e1e1;
+}
+.col-right-inner img {
+    width: 100%;
+}
+.col-left-inner h4,
+.update-now h4,
+.col-3 h4 {
+    font-size: 14px;
+    font-weight: bold;
+    color: #000;
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+.col-left-inner p {
+    font-size: 14px;
+    margin: 8px 0;
+}
+.info-link a,
+.col-left-pro a{
+    background: linear-gradient(#6ccef5,#016194);
+    padding: 8px 15px;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 3px;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+.theme-offer {
+    clear: both;
+    margin: 50px 0 15px 0;
+    text-align: center;
+}
+.info-link a:hover,
+.col-left-pro a:hover,
+td.update-link:hover{
+    background: #0771ab;
+}
+.info-link {
+    margin: 20px 0;
+}
+.col-right .info-link,
+.logo{
+    text-align: center;
+}
+button.tablinks:focus {
+    outline: none;
+}
+.tabcontent {
+    display: none;
+}
+.open {
+    display: block ;
+}
+.tab-sec {
+    width: 100%;
+}
+/* Our theme tab */
+.info-link .dashicons {
+    margin-right: 6px;
+}
+#wpfooter{
+    position: unset !important;
+}
+.tab-sec h3 {
+    color: #004c75 !important;
+    font-size: 19px !important;
+    margin: 0 10px 0 0 !important;
+    line-height: 30px !important;
+}
+hr.h3hr {
+    width: unset;
+    border-top: 1px solid #dcdcde !important;
+    border-bottom: 1px solid #f6f7f7 !important;
+    margin: 10px 0 !important;
+}
+.col-right-inner #sirat-demo-importer-demo-setup-guid {
+    max-width: 100%;
+    background: #fff;
+    padding: 20px 20px;
+    height: 470px;
+}
+#sirat-demo-importer-demo-setup-guid ul li {
+    width: 50%;
+    flex: 0 0 50%;
+    padding-bottom: 18px;
+    margin-top: 13px;
+    border-bottom: 1px solid #e2e2e2;
+}
+#sirat-demo-importer-demo-setup-guid ul li a {
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: 600;
+    color: #016194;
+}
+#sirat-demo-importer-demo-setup-guid ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+#sirat-demo-importer-demo-setup-guid ul li span {
+    padding-right: 8px;
+    color: #222;
+}
+.o-product-row, .o-product-main-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.plugin-col {
+    width: 29%;
+    flex: 0 0 29%;
+    margin: 15px;
+    box-shadow: 0 0 12px #e2e2e2;
+    box-sizing: border-box;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: #fff;
+}
